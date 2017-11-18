@@ -22,3 +22,7 @@ are not new. I simply see that each framework handles things a little differentl
 the same...facilitating http requests and responses to build a dynamic web application. </br>
 
 **Node's Use of the Terminal:** It is very interesting to use the Unix-base MacOS terminal so heavily. I came into this very comfortable with the terminal and using it in this project was very good for reinforcing that knowledge. I used to hate the terminal and git controls a lot but now that I am decently fast and proficient I see the power of the terminal to interact with my project.
+
+**Note1:** I didn't upload the node_modules folder into the root here. You can simply automatically create this by running 'node install' to create the node_modules folder needed to load the modules and run the project properly.
+
+**Note2:** This project is really ugly on the frontend. I didn't do the final part that included making css and new html files to make the app look good. I just wanted to learn the data flow and structure of Express so I can cooperate on [NexText's](https://github.com/mwein99/nextext) backend with my colleague [Felipe Linares](https://github.com/felipe-linares) as I only knew Spring Boot for Java and since frontend is the same across frameworks (client-side CSS and JavaScript at least, not dynamic templates).
