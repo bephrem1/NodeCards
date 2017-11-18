@@ -1,18 +1,18 @@
 # NodeCards </br>
-Introduction to Express framework and Node.js with Simple Flashcard Application </br>
+**Introduction to Express framework and Node.js with Simple Flashcard Application** </br>
 
-Instructor/Code: Andrew Chalkley </br>
-Course Taken: 11/16/17 - 11/18/17 </br>
+**Instructor/Code:** Andrew Chalkley </br>
+**Course Taken:** 11/16/17 - 11/18/17 </br>
 
-What I Learned:
--Templating with pug (otherwise know as Jade)
--Module design pattern and exporting encapsulated methods
--Serving static assets to a client
--Encapsulating routes
--Managing npm packages and dev dependencies
--Probably other things I don't remember..
+**What I Learned:** </br>
+-Templating with pug (otherwise know as Jade) </br>
+-Module design pattern and exporting encapsulated methods </br>
+-Serving static assets to a client </br>
+-Encapsulating routes </br>
+-Managing npm packages and dev dependencies </br>
+-Probably other things I don't remember.. </br>
 
-My Comments: </br>
+**My Comments:** </br>
 This is my 2nd web framework that I'm learning and I've been intrigued and challenged by the new functional way of
 thinking that JavaScript requires. I learned it first on client-side and then making a 2nd shift to using JavaScript
 server-side was another challenge. </br>
