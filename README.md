@@ -21,7 +21,7 @@ This was helped by the fact that this is the 2nd framework for me so ideas like 
 are not new. I simply see that each framework handles things a little differently but the fundamental parts are all
 the same...facilitating http requests and responses to build a dynamic web application. </br>
 
-**Node's Use of the Terminal:** It is very interesting to use the Unix-base MacOS terminal so heavily. I came into this very comfortable with the terminal and using it in this project was very good for reinforcing that knowledge. I used to hate the terminal and git controls a lot but now that I am decently fast and proficient I see the power of the terminal to interact with my project.
+**Node's Use of the Terminal:** It is very interesting to use the Unix-base MacOS terminal so heavily as with Spring I never really used the terminal too much except for git tasks. I came into this very comfortable with the terminal and using it in this project was very good for reinforcing that knowledge. I used to hate the terminal and git controls a lot but now that I am decently fast and proficient I see the power of the terminal to interact with my project.
 
 **Note1:** I didn't upload the node_modules folder into the root here. You can simply automatically create this by running 'node install' to create the node_modules folder needed to load the modules and run the project properly.
 
