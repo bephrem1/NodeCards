@@ -1,0 +1,12 @@
+extends layout.pug
+
+block content
+    section#content
+      h2 #{text}
+      if hint
+        p
+          i Hint: #{hint}
+      a(href=`${id}?side=${slideToShow}`) #{slideToShowDisplay}
+      br
+      br
+      a(href='/cards') Pick Another Random Card
